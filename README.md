@@ -1,3 +1,5 @@
-# chatbot
+# Imitator Bot
 
-this is out chatbot
+This chat bot can imitate different people using a Markov chain.
+
+Telegram: imitator_bot
