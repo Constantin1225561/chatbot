@@ -55,8 +55,8 @@ class Markov():
 
 # In[3]:
 
-people = ["trump", "clinton", "bojack"]
-markovChains = [Markov(order=1), Markov(order=1), Markov(order=1)]
+people = ["trump", "clinton", "bojack", "shakespeare"]
+markovChains = [Markov(order=1), Markov(order=1), Markov(order=1), Markov(order=1), Markov(order=1), Markov(order=1)]
 i = 0
 while i < len(people):
     markovChains[i] = Markov(order=3)
