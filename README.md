@@ -2,6 +2,8 @@
 
 This chat bot can imitate different people using a Markov chain.
 
+Given more time, it would be interesting to make it react on the user's input. However, this would require much more data.
+
 Telegram: imitator_bot
 
 ## Example Conversation
